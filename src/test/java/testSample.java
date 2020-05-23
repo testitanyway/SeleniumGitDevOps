@@ -32,7 +32,7 @@ public void testcase001()
     }
     catch(Exception ex)
     {
-
+    
     }
 
 
@@ -42,7 +42,7 @@ public void testcase001()
     public void testcase002()
     {
 
-            System.out.println("Hello World !!");
+            System.out.println("Hello World2!!");
             driver.get("https://www.seleniumeasy.com/");
 
             String titles = driver.getTitle();
