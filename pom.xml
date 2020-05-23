@@ -8,8 +8,8 @@
     <artifactId>SeleniumGitDevOps</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <jre.level>1.8.0</jre.level>
-        <jdk.level>1.8.0</jdk.level>
+        <jre.level>1.8.0_222</jre.level>
+        <jdk.level>1.8.40.0</jdk.level>
     </properties>
 
     <build>
